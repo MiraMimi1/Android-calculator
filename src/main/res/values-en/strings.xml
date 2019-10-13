@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculate My Grade</string>
+    <string name="calculer">Calculate</string>
+    <string name="reset">Reset</string>
+    <string name="moyenne">Grade</string>
+    <string name="module">Module</string>
+    <string name="emd">EMD</string>
+    <string name="td">TD</string>
+    <string name="tp">TP</string>
+    <string name="sec">Security</string>
+    <string name="mob">Mob-App</string>
+    <string name="bdd">DB</string>
+    <string name="infographie">Infgr</string>
+    <string name="redsc">ScWrit</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Calculer Ma Moyenne</string>
+    <string name="module">Module</string>
+    <string name="emd">EMD</string>
+    <string name="td">TD</string>
+    <string name="tp">TP</string>
+    <string name="moyenne">Moyenne</string>
+    <string name="sec">Sécurité</string>
+    <string name="mob">App-Mob</string>
+    <string name="bdd">BDD</string>
+    <string name="infographie">Infgr</string>
+    <string name="calculer">Calculer</string>
+    <string name="reset">Effacer</string>
+    <string name="redsc">RedSc</string>
+</resources>
